@@ -10,6 +10,6 @@ namespace LottoGame
     {
         public static string username = "";
         public static int balance = 1000;
-        public static int[] playerNumbers = new int[6]; 
+        public static int[] playerNumbers = new int[6];
     }
 }

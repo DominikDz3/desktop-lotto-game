@@ -320,5 +320,17 @@ namespace LottoGame
         {
             SelectNumbers("49");
         }
+
+        private void StartDraw_Click(object sender, RoutedEventArgs e)
+        {
+            for (int i = 0; i < 6; i++)
+            {
+                Globals.playerNumbers[i] = Convert.ToInt32(pickednumbers[i]);
+            }
+
+            CheckLuckyNumbers checkluckynumbers = new CheckLuckyNumbers();
+            MainWindow mainwindow = new MainWindow();
+            mainwindow.NewDrawFrame.Navigate(checkluckynumbers);
+        }
     }
 }

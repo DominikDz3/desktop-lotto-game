@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace LottoGame
 {
     /// <summary>
@@ -24,5 +25,10 @@ namespace LottoGame
         {
             InitializeComponent();
         }
+        public void OnLoad(object sender, RoutedEventArgs e)
+        {
+            Number1.Text = Globals.playerNumbers[0].ToString(); 
+        }
     }
+
 }

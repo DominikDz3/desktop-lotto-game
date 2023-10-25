@@ -52,3 +52,7 @@ C:\Users\domix\Desktop\LottoGame\LottoGame\obj\Debug\net6.0-windows\LottoGame.ge
 C:\Users\domix\Desktop\LottoGame\LottoGame\obj\Debug\net6.0-windows\ref\LottoGame.dll
 C:\Users\domix\Desktop\LottoGame\LottoGame\obj\Debug\net6.0-windows\Credits.g.cs
 C:\Users\domix\Desktop\LottoGame\LottoGame\obj\Debug\net6.0-windows\Credits.baml
+C:\Users\domix\Desktop\Projekty\LottoGame\LottoGame\obj\Debug\net6.0-windows\CheckLuckyNumbers.g.cs
+C:\Users\domix\Desktop\Projekty\LottoGame\LottoGame\obj\Debug\net6.0-windows\Credits.g.cs
+C:\Users\domix\Desktop\Projekty\LottoGame\LottoGame\obj\Debug\net6.0-windows\CheckLuckyNumbers.baml
+C:\Users\domix\Desktop\Projekty\LottoGame\LottoGame\obj\Debug\net6.0-windows\Credits.baml

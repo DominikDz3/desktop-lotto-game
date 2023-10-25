@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domix\\Desktop\\LottoGame\\LottoGame\\LottoGame.csproj": {}
+    "C:\\Users\\domix\\Desktop\\Projekty\\LottoGame\\LottoGame\\LottoGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domix\\Desktop\\LottoGame\\LottoGame\\LottoGame.csproj": {
+    "C:\\Users\\domix\\Desktop\\Projekty\\LottoGame\\LottoGame\\LottoGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domix\\Desktop\\LottoGame\\LottoGame\\LottoGame.csproj",
+        "projectUniqueName": "C:\\Users\\domix\\Desktop\\Projekty\\LottoGame\\LottoGame\\LottoGame.csproj",
         "projectName": "LottoGame",
-        "projectPath": "C:\\Users\\domix\\Desktop\\LottoGame\\LottoGame\\LottoGame.csproj",
+        "projectPath": "C:\\Users\\domix\\Desktop\\Projekty\\LottoGame\\LottoGame\\LottoGame.csproj",
         "packagesPath": "C:\\Users\\domix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domix\\Desktop\\LottoGame\\LottoGame\\obj\\",
+        "outputPath": "C:\\Users\\domix\\Desktop\\Projekty\\LottoGame\\LottoGame\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\domix\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
